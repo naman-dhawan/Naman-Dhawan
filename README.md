@@ -33,12 +33,16 @@ to strengthen my technical and analytical skills.
 - Data Cleaning
 - Data Visualization
 - Data Modeling
+- statistics
+- Tableau
+- Ai and business analysis 
 
 ### Programming & Databases
 - Python
 - SQL
 - Pandas
 - NumPy
+- seaborn and matplotlib
 
 ### Other Tools
 - Git & GitHub
