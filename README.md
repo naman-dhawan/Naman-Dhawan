@@ -55,7 +55,7 @@ to strengthen my technical and analytical skills.
 
 ### 📊 HR Analytics Dashboard
 
-Analyzed employee data using Power BI to explore
+Analyzed employee data using Microsoft excel to explore
 attrition trends, employee demographics, and
 workforce insights.
 
