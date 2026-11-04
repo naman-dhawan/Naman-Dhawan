@@ -49,9 +49,13 @@ to strengthen my technical and analytical skills.
 
 ## 📂 Featured Projects
 
-### 📊 Excel Data Analytics
-Working on Excel projects involving data cleaning,
-Pivot Tables, formulas, and dashboards.
+### 📊 HR Analytics Dashboard
+
+Analyzed employee data using Power BI to explore
+attrition trends, employee demographics, and
+workforce insights.
+
+[View Project](YOUR_REPOSITORY_LINK)
 
 ### 📈 Power BI Analytics
 Building interactive dashboards and exploring
