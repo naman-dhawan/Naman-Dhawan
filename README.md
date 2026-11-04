@@ -82,7 +82,7 @@ and database concepts.
 
 ## 📫 Connect With Me
 
-- GitHub: [Naman-Dhawan]https://github.com/naman-dhawan/Naman-Dhawan/edit/main/README.md
+- GitHub: https://github.com/naman-dhawan
 - LinkedIn: [Add your LinkedIn profile URL]
 
 ---
