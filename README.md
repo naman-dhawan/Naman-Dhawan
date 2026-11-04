@@ -55,7 +55,7 @@ Analyzed employee data using Power BI to explore
 attrition trends, employee demographics, and
 workforce insights.
 
-[View Project](YOUR_REPOSITORY_LINK)
+[View Project]https://github.com/naman-dhawan/Excel-HR-Analytics-Dashboard.git
 
 ### 📈 Power BI Analytics
 Building interactive dashboards and exploring
